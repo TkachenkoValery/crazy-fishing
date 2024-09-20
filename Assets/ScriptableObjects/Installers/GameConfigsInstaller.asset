@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb077f4ca29ffd49b1f014b3fbd508e, type: 3}
+  m_Name: GameConfigsInstaller
+  m_EditorClassIdentifier: 
+  _BobberThrowerConfig: {fileID: 11400000, guid: 1fc2e2d4c2640a14d8ec0444fd605668, type: 2}
+  _CoinsHandlerConfig: {fileID: 11400000, guid: 20a10b7df9709ed4ba14bb8b954e4db1, type: 2}
